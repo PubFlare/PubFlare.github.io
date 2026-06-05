@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: PubFlare/PubFlare.github.io
+  baseUrl: PubFlare.github.io
   ignorePatterns:
     - private
     - templates
