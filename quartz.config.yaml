@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      body: Geist Mono
+      code: VT323
     colors:
       lightMode:
         light: "#faf8f8"
@@ -156,7 +156,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -226,7 +226,13 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    layout:
+      position: right
+      priority: 15
+    options:
+      title: "Recent Posts"
+      limit: 5
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
