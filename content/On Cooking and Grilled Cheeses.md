@@ -3,6 +3,7 @@ This came about when a group of my friends and I were talking about grilled chee
 The conversation quickly turned into something much more than a discussion of bread, butter, and cheese. I realized that this starts to get into a broader theory of all cooking really quickly. I haven't fully thought through every aspect of this but my working theory right now is: ==In general, the fewer ingredients a prepared dish has, the lager the impact of the quality of those individual ingredients. Also, and perhaps even more importantly, the more the technique matters.== 
 
 In other "words":
+
  $(Number~of~Ingredients)=100/Inpact~of~Each~Ingredient$
   ![[Screenshot 2026-06-05 014911.jpg]]
 ###### *(yes pedants I know the scale implies that food with less than one ingredient is infinitely delicious...I just wanted a pretty graph. Leave me alone)*
