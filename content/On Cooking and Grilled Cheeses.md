@@ -1,18 +1,22 @@
 This came about when a group of my friends and I were talking about grilled cheese sandwiches and what we do when we're makin 'em at night
 
-The conversation quickly turned into something much more than a discussion of bread, butter, and cheese. I realized that this starts to get into a broader theory of all cooking really quickly. I haven't fully thought through every aspect of this but my working theory right now is: ==In general, the fewer ingredients a prepared dish has, the lager the impact of the quality of those individual ingredients. Also, and perhaps even more importantly, the more the technique matters.== 
+The conversation quickly turned into something much more than a discussion of bread, butter, and cheese. I realized that this starts to get into a broader theory of all cooking really quickly. I haven't fully thought through every aspect of this but my working theory right now is: 
 
+> [!important]
+> In general, the fewer ingredients a prepared dish has, the lager the impact of the quality of those individual ingredients. Also, and perhaps even more importantly, the more the technique matters. 
+
+> 
 In other "words":
 
  $(Number~of~Ingredients)=100/Inpact~of~Each~Ingredient$
   ![[Screenshot 2026-06-05 014911.jpg]]
-###### *(yes pedants I know the scale implies that food with less than one ingredient is infinitely delicious...I just wanted a pretty graph. Leave me alone)*
+ %% *(yes pedants I know the scale implies that food with less than one ingredient is infinitely delicious...I just wanted a pretty graph. Leave me alone)* %%
 
-As and example, if you think about something like a cup of coffee versus a pot of chili, yes, the ingredients and technique matter in both instances. However its a matter of scale. In a cup of coffee. If you have bad beans or bad water, or if you don't know what you're doing, it goes downhill quickly. But a pot of chili is like almost designed to be hard to mess up. I often use leftovers and things not at their prime in chili because its so forgiving and there are like 30 ingredients so any one is of nearly trivial value.
+As and example, if you think about something like a cup of coffee versus a pot of chili, yes, the ingredients and technique matter in both instances. However its a matter of scale. In a cup of coffee; If you have bad beans, bad water, or if you don't know what you're doing, it goes downhill quickly. But a pot of chili is like...almost *designed* to be hard to mess up. I often use leftovers and things not at their prime in chili because its so forgiving and there are like 30 ingredients so any one is of nearly trivial value.
 
 Which brings us to the crust of the matter  
 
-I think grilled cheese is somewhere in the middle. Yes, you can absolutely make a great grilled cheese sandwich with 89c Wonder Bread, a shmear of margarine, and a nickel's worth of processed cheese product. But it's so easy to burn or to otherwise mess up the technique really matters a lot. But if you go in there with some hearty fresh sourdough and some fancy cheeses, it's actually easier to pull off well because they don't cook as fast. It's a really interesting midpoint. 
+I think grilled cheese is somewhere in the middle. Yes, you can absolutely make a great grilled cheese sandwich with 89c Wonder Bread, a shmear of margarine, and a nickel's worth of processed cheese product but it's so easy to burn or to otherwise mess up, the technique really matters a lot. However, if you go in there with some hearty fresh sourdough and some fancy cheeses, it's actually easier to pull off well because they don't cook as quickly. It's a really interesting midpoint. 
 
 It's also interesting/tricky because the difference between those breads and cheeses is so vast that if you did the exact same times and temperatures for both "recipes", you'd come up with two different products.
 
@@ -31,21 +35,22 @@ When it comes to cheese I prefer Colby cheese although pepper jack is also nice.
 I used to be a fan of putting a little whole grain mustard on the inside of one slice but I don't do that a whole lot anymore. 
 
 Alright 
-- pan on medium heat
-- get out other ingredients 
-- butter both slices, set aside
-- portion cheese, No thicker than two slices at any point
-- place first slice in pan (if it sizzles really hard, cut the heat 20% and move the pan off the fire) 
-- put cheese on first slice 
-- top with second slice 
-- wait
-- listen, smell and watch for bread to begin to toast 
-- flip when golden brown 
-- repeat previous two until desired level of crispiness and golden brownness 
-- remove to cooling rack 
-- wait at least a minute 
-- cut DIAGONALLY
+- Pan on Medium Heat
+- Get Out Other Ingredients
+- Butter Both Slices, Set Aside
+- Portion Cheese, No Thicker Than Two Slices at Any Point
+- Place First Slice in Pan (if It Sizzles Really Hard, Cut the Heat 20% and Move the Pan off the Fire)
+- Put Cheese on First Slice
+- Top With Second Slice
+- Wait
+- Listen, Smell and Watch for Bread To Begin To Toast
+- Flip When Golden Brown
+- Repeat Previous Two Until Desired Level of Crispiness and Golden Brownness
+- Remove to Cooling Rack
+- Wait at Least a Minute
+- Cut DIAGONALLY
 
 It should never sizzle really really hard. If it does, remove pan from heat, you can even pull the sandwich out and set it aside on a cooling rack for a minute. 
 
 Honestly I could keep going but at this point I'm pretty sure you guys are tired of reading this dissertation. Go forth and grill some cheese and be merry. 
+

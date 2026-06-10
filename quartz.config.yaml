@@ -21,17 +21,16 @@ configuration:
       code: VT323
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#000111"           # Main background color of the entire page
+        lightgray: "#393639"       # Borders, dividing lines, and inline code backgrounds
+        gray: "#888888"            # Muted text (reading times, dates, tags, search placeholder)
+        darkgray: "#f5f5f5"        # Main body text (standard paragraph text)
+        dark: "#ffffff"            # Headings (H1, H2, etc.), site name, and bold text
+        secondary: "#7b97aa"       # Primary accents, clickable links, and Explorer folder names
+        tertiary: "#84a59d"        # Hover state for links (color when mouse is over them)
+        highlight: rgba(143, 159, 169, 0.15) # Faint background box behind hovered internal links
+        textHighlight: "#b3aa0288" # Background color for Markdown highlighted text (==highlight==)
       darkMode:
-        darkMode:
         light: "#000111"           # Main background color of the entire page
         lightgray: "#393639"       # Borders, dividing lines, and inline code backgrounds
         gray: "#888888"            # Muted text (reading times, dates, tags, search placeholder)
