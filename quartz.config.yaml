@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Creehan Ponderings
+  pageTitleSuffix: "What even is that dude thinking..."
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Schibsted Grotesk
-      body: Geist Mono
+      body: VT323
       code: VT323
     colors:
       lightMode:
@@ -31,15 +31,16 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#000111"
-        lightgray: "#393639"
-        gray: "#888888"
-        darkgray: "#f5f5f5"
-        dark: "#ffffff"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        darkMode:
+        light: "#000111"           # Main background color of the entire page
+        lightgray: "#393639"       # Borders, dividing lines, and inline code backgrounds
+        gray: "#888888"            # Muted text (reading times, dates, tags, search placeholder)
+        darkgray: "#f5f5f5"        # Main body text (standard paragraph text)
+        dark: "#ffffff"            # Headings (H1, H2, etc.), site name, and bold text
+        secondary: "#7b97aa"       # Primary accents, clickable links, and Explorer folder names
+        tertiary: "#84a59d"        # Hover state for links (color when mouse is over them)
+        highlight: rgba(143, 159, 169, 0.15) # Faint background box behind hovered internal links
+        textHighlight: "#b3aa0288" # Background color for Markdown highlighted text (==highlight==)
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
