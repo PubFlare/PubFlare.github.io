@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Creehan Ponderings
-  pageTitleSuffix: "What even is that dude thinking..."
+  pageTitleSuffix: ": What even is that dude thinking..."
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -149,9 +149,9 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -194,7 +194,7 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
@@ -220,7 +220,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
